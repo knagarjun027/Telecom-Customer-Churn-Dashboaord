@@ -67,8 +67,6 @@ Built an interactive dashboard to present:
 
 The dashboard allows filtering by contract type, tenure group, gender, and payment method.
 
-Add screenshots below:
-
 ![Dashboard Screenshot](Dashboard.png)
 
 ---
