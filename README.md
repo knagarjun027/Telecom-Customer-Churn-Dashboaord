@@ -69,7 +69,7 @@ The dashboard allows filtering by contract type, tenure group, gender, and payme
 
 Add screenshots below:
 
-![Dashboard Screenshot](screenshots/dashboard1.png)
+![Dashboard Screenshot](screenshots/Dashboard.png)
 
 ---
 
