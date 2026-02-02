@@ -35,7 +35,7 @@ The dataset includes:
 - Defined primary keys and relationships
 - Organized customer, billing, and service information into tables
 
-File: `schemaSetup.sql`
+File: `SchemaSetup.sql`
 
 ---
 
@@ -92,7 +92,7 @@ The dashboard allows filtering by contract type, tenure group, gender, and payme
 ## How to Run
 
 1. Download the dataset from Kaggle.
-2. Run `schemaSetup.sql` in your SQL environment.
+2. Run `SchemaSetup.sql` in your SQL environment.
 3. Use `Queries.sql` to generate analysis.
 4. Open `Dashboard.pbix` in Power BI Desktop.
 
